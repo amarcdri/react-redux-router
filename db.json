@@ -1,0 +1,52 @@
+{
+  "articles": [
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bobjohnson@example.com",
+      "phone": "555-555-5557"
+    },
+    {
+      "id": 4,
+      "name": "Alice Brown",
+      "email": "alicebrown@example.com",
+      "phone": "555-555-5558"
+    },
+    {
+      "id": 5,
+      "name": "Tom Lee",
+      "email": "tomlee@example.com",
+      "phone": "555-555-5559"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Jones",
+      "email": "sarahjones@example.com",
+      "phone": "555-555-5560"
+    },
+    {
+      "id": 7,
+      "name": "Mike Smith",
+      "email": "mikesmith@example.com",
+      "phone": "555-555-5561"
+    },
+    {
+      "id": 8,
+      "name": "Emily Davis",
+      "email": "emilydavis@example.com",
+      "phone": "555-555-5562"
+    },
+    {
+      "id": 9,
+      "name": "Jack Chen",
+      "email": "jackchen@example.com",
+      "phone": "555-555-5563"
+    },
+    {
+      "id": 10,
+      "name": "Karen Kim",
+      "email": "karenkim@example.com",
+      "phone": "555-555-5564"
+    }
+  ]
+}
